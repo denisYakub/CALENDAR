@@ -4,6 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/denis/AndroidStudioProjects/CALENDAR/app/src/main/res/layout/activity_main.xml" value="0.1068840579710145" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_calendar_black_24dp.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/fragment_calendar.xml" value="0.1796875" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/fragment_dashboard.xml" value="0.10099637681159421" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/fragment_home.xml" value="0.10099637681159421" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/fragment_notifications.xml" value="0.10099637681159421" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/menu/bottom_nav_menu.xml" value="0.14666666666666667" />
       </map>
     </option>
   </component>
