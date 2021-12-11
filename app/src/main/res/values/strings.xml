@@ -2,4 +2,6 @@
     <string name="app_name">CALENDAR</string>
     <string name="title_calendar">Calendar</string>
     <string name="title_tasks">Tasks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
