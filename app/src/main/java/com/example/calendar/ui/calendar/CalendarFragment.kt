@@ -26,6 +26,8 @@ import java.util.*
 import android.widget.AdapterView.OnItemClickListener
 import androidx.navigation.Navigation
 import androidx.navigation.findNavController
+import androidx.navigation.fragment.findNavController
+import com.example.calendar.createTaskOrEvent
 import org.jetbrains.annotations.Nullable
 
 
@@ -87,11 +89,12 @@ class HomeFragment : Fragment() {
         setCalendar(root)
         val g:GridView = root.findViewById(R.id.days)
         g.onItemClickListener = OnItemClickListener { parent, v, position, id ->
-            val bun = Bundle()
+
+            val bundle = Bundle()
             val fragment = DayFragment()
-            bun.putInt("day", position+1)
-            fragment.arguments = bun
-            Navigation.findNavController(root).navigate(R.id.action_navigation_calendar_to_dayFragment)
+            bundle.putInt("day",position)
+            fragment.arguments = bundle
+            Navigation.findNavController(root).navigate(R.id.action_navigation_calendar_to_dayFragment, bundle)
         }
         return root
     }
