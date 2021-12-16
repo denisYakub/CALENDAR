@@ -3,32 +3,35 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/andvi/Desktop/CALENDAR/app/src/main/res/drawable/rounded_button.xml" value="0.2203125" />
+        <entry key="..\:/Users/andvi/Desktop/CALENDAR/app/src/main/res/drawable/rounded_text.xml" value="0.2203125" />
+        <entry key="..\:/Users/andvi/Desktop/CALENDAR/app/src/main/res/layout/activity_create_task_or_event.xml" value="0.18" />
+        <entry key="..\:/Users/andvi/Desktop/CALENDAR/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/andvi/Desktop/CALENDAR/app/src/main/res/layout/date_time_picker.xml" value="0.1" />
+        <entry key="..\:/Users/andvi/Desktop/CALENDAR/app/src/main/res/layout/fragment_calendar.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/andvi/Desktop/CALENDAR/app/src/main/res/layout/fragment_day.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/andvi/Desktop/CALENDAR/app/src/main/res/layout/fragment_tasks.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/andvi/Desktop/CALENDAR/app/src/main/res/layout/item_in_tasklist.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/andvi/Desktop/CALENDAR/app/src/main/res/layout/spinner_item.xml" value="0.1" />
+        <entry key="..\:/Users/andvi/Desktop/CALENDAR/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/denis/AndroidStudioProjects/CALENDAR/app/src/main/res/layout/activity_main.xml" value="0.1068840579710145" />
         <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19583333333333333" />
-        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.19583333333333333" />
-        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_baseline_format_list_bulleted_24.xml" value="0.19583333333333333" />
-        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_calendar_black_23dp.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_calendar_black_24dp.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.19583333333333333" />
-        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/drawable/ic_tasks_black_24dp.xml" value="0.19583333333333333" />
-        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/activity_create_task_or_event.xml" value="0.14719202898550723" />
-        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/activity_day.xml" value="0.15172101449275363" />
         <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/fragment_calendar.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/fragment_calendar.xml" value="0.1796875" />
         <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/fragment_dashboard.xml" value="0.10099637681159421" />
-        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/fragment_day.xml" value="0.1" />
         <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/fragment_home.xml" value="0.10099637681159421" />
         <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/fragment_notifications.xml" value="0.10099637681159421" />
-        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/fragment_tasks.xml" value="0.14719202898550723" />
-        <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/layout/item_in_tasklist.xml" value="0.4466666666666667" />
         <entry key="..\:/Users/denis/CALENDAR/CALENDAR/app/src/main/res/menu/bottom_nav_menu.xml" value="0.14666666666666667" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

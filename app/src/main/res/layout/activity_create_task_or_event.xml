@@ -60,6 +60,7 @@
         android:ems="10"
         android:hint="Date"
         android:inputType="date"
+        android:onClick="onDateClick"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
         android:textColorHint="@color/light_steel_blue"
