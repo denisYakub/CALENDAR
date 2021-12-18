@@ -42,5 +42,6 @@ class DayFragment: Fragment(R.layout.fragment_day){
         setDay(view)
         setTaskList(arr, view)
     }
+
 }
 

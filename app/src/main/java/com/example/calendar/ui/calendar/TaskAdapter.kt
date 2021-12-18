@@ -26,6 +26,7 @@ class RecyclerViewAdapter(listitems: List<String>, context: Context) :
         holder.task.text = listItem
         holder.switch.setOnClickListener {
             Toast.makeText(context, "Task ${position+1} done", Toast.LENGTH_SHORT).show()
+            deleteTask(position)
         }
     }
 
@@ -38,4 +39,7 @@ class RecyclerViewAdapter(listitems: List<String>, context: Context) :
         var switch: CheckBox = itemView.findViewById(R.id.taskSwitch) as CheckBox
     }
 
+    private fun deleteTask(position: Int){
+
+    }
 }
